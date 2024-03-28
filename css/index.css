@@ -8,4 +8,10 @@ p{
 	color: blue;
 }
 
+div{
+	border: 3px  solid black;
+	justify-content: 'center';
+
+}
+
 
